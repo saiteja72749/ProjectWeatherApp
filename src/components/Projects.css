@@ -1,0 +1,82 @@
+.Timer {
+  border-radius: 8px;
+  font-size: 15px;
+  text-transform: capitalize;
+  background-color: rgb(35, 167, 62);
+  background-color:#5A5A5A;
+  color: #ffffff;   
+}
+
+.weather{
+      border: 1px solid #480774;
+      font-size: 15px;
+      text-transform: capitalize;
+      background-color:#0f0909;
+      text-align: center;
+      width: 70%;
+      margin: 10px auto;
+      background: rgb(255, 255, 255);
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0px 0px 10px #0c0a07;
+}
+
+.weather{
+  border: 1px solid #848484;
+  font-size: 15px;
+  text-transform: capitalize;
+  background-color:#1b29c0;
+  text-align: center;
+  width: 70%;
+  margin: 10px auto;
+  background: rgb(157, 245, 251);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px #f1ed05;
+}
+
+button{
+  margin: 0px;
+  padding: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border: 1px solid #480774;
+  border-radius: 3px;
+  font-size: 15px;
+  text-transform: capitalize;
+  background-color:#0f0909;
+  color: #ffffff;   
+  text-align: center;
+}
+.Enter{
+  margin: 0px;
+  padding-top: 10px;
+  padding-left: 18px;
+  padding-right: 19px;
+}
+.BackSpace{
+  margin: 0px;
+  padding-left: 15px;
+  padding-right: 16px;
+}
+.Clear{
+  margin: 0px;
+  padding-left: 37px;
+  padding-right: 38px;
+}
+.errormsg{
+  color: red;
+}
+.treasure{
+  color: #480774;
+}
+.Show{
+  margin: 2px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+.inputfield{
+  margin: 1px;
+  padding: 10px;
+  border-radius: 4px;
+}
